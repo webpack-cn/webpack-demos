@@ -915,7 +915,7 @@ export default class App extends Component {
 }
 ```
 
-index.js
+index.js ?
 
 ```javascript
 import React from 'react';
